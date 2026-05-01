@@ -6,11 +6,13 @@
 [![Maintainability](https://qlty.sh/gh/mcarvin8/projects/xml-disassembler-node/maintainability.svg)](https://qlty.sh/gh/mcarvin8/projects/xml-disassembler-node)
 [![codecov](https://codecov.io/gh/mcarvin8/xml-disassembler-node/graph/badge.svg?token=WSJJ6YF37O)](https://codecov.io/gh/mcarvin8/xml-disassembler-node)
 
+> ⚠️ **Deprecated:** This package is no longer maintained. Use [config-disassembler-node](https://github.com/mcarvin8/config-disassembler-node) (Node.js) or [config-disassembler](https://github.com/mcarvin8/config-disassembler) instead.
+
 Split large XML files into smaller, version-control–friendly pieces—then reassemble them when needed. Output as XML, JSON, JSON5, or YAML.
 
 Useful for cleaner diffs, easier collaboration, and workflows like Salesforce metadata.
 
-> **Native Rust:** Core logic is in the [xml-disassembler](https://crates.io/crates/xml-disassembler) crate; this package provides Node.js bindings via [Neon](https://neon-bindings.com).
+> **Note:** This package has been superseded by the next-generation implementation in [config-disassembler-node](https://github.com/mcarvin8/config-disassembler-node), powered by [config-disassembler](https://github.com/mcarvin8/config-disassembler).
 
 ---
 
