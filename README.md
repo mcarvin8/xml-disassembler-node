@@ -10,8 +10,6 @@
 
 Split large XML files into smaller, version-control–friendly pieces—then reassemble them when needed. Output as XML, JSON, JSON5, or YAML.
 
-Useful for cleaner diffs, easier collaboration, and workflows like Salesforce metadata.
-
 > **Note:** This package has been superseded by the next-generation implementation in [config-disassembler-node](https://github.com/mcarvin8/config-disassembler-node), powered by [config-disassembler](https://github.com/mcarvin8/config-disassembler).
 
 ---
